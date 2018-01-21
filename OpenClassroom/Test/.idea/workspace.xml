@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f40a81-e686-450f-869f-ef7ba2335239" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/parcourirTableauFor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/parcourirTableauForEach.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/rechercheTableau.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/tableauAssociatif.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tableaux/tableauNumerote.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AfficherTexte.php" afterPath="$PROJECT_DIR$/introPHP/AfficherTexte.php" />
-      <change beforePath="$PROJECT_DIR$/afficherDate.php" afterPath="$PROJECT_DIR$/introPHP/afficherDate.php" />
-      <change beforePath="$PROJECT_DIR$/calculsSimples.php" afterPath="$PROJECT_DIR$/introPHP/calculsSimples.php" />
-      <change beforePath="$PROJECT_DIR$/conditionSwitch.php" afterPath="$PROJECT_DIR$/conditions/conditionSwitch.php" />
-      <change beforePath="$PROJECT_DIR$/conditions.php" afterPath="$PROJECT_DIR$/conditions/conditions.php" />
-      <change beforePath="$PROJECT_DIR$/phpinfo.php" afterPath="$PROJECT_DIR$/introPHP/phpinfo.php" />
-      <change beforePath="$PROJECT_DIR$/test_echo.php" afterPath="$PROJECT_DIR$/introPHP/test_echo.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,102 +19,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="afficherDate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php">
+      <file leaf-file-name="tableauAssociatif.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableaux/tableauAssociatif.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="270">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpinfo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_echo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introPHP/test_echo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculsSimples.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introPHP/calculsSimples.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditions/conditions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditionSwitch.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditions/conditionSwitch.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bouclesWhile.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boucles/bouclesWhile.php">
+      <file leaf-file-name="parcourirTableauFor.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauFor.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boucleWhile2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boucles/boucleWhile2.php">
+      <file leaf-file-name="parcourirTableauForEach.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauForEach.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boucleFor.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/boucles/boucleFor.php">
+      <file leaf-file-name="parcourirTableauPrint_r.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+            <state relative-caret-position="15">
+              <caret line="1" column="125" lean-forward="false" selection-start-line="1" selection-start-column="125" selection-end-line="1" selection-end-column="125" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
-        <entry file="file:///Applications/MAMP/bin/php/php7.1.8/conf/php.ini">
+      <file leaf-file-name="rechercheTableau.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tableaux/rechercheTableau.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4140">
-              <caret line="276" column="19" lean-forward="false" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="72">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#133#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +95,12 @@
         <option value="$PROJECT_DIR$/boucles/bouclesWhile.php" />
         <option value="$PROJECT_DIR$/boucles/boucleWhile2.php" />
         <option value="$PROJECT_DIR$/boucles/boucleFor.php" />
+        <option value="$PROJECT_DIR$/tableaux/tableauBasique.php" />
+        <option value="$PROJECT_DIR$/tableaux/tableauAssociatif.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauFor.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauForEach.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php" />
+        <option value="$PROJECT_DIR$/tableaux/rechercheTableau.php" />
       </list>
     </option>
   </component>
@@ -233,12 +190,12 @@
       <workItem from="1516437928295" duration="3145000" />
       <workItem from="1516535908380" duration="227000" />
       <workItem from="1516543345210" duration="1764000" />
-      <workItem from="1516575210965" duration="176000" />
+      <workItem from="1516575210965" duration="2249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8410000" />
+    <option name="totallyTimeSpent" value="10483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -274,30 +231,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introPHP/test_echo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/introPHP/calculsSimples.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -654,6 +587,56 @@
         <state relative-caret-position="60">
           <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/tableauNumerote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/tableauAssociatif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauFor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauForEach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="125" lean-forward="false" selection-start-line="1" selection-start-column="125" selection-end-line="1" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableaux/rechercheTableau.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#133#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
