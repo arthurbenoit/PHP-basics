@@ -1,0 +1,1 @@
+<a href="bonjourTranstypage.php?nom=Dupont&amp;prenom=Jean&amp;repeter=10">Dis-moi bonjour !</a>
