@@ -10,6 +10,22 @@
 <p>
     Cette ligne a été écrite entièrement en HTML.<br />
     <?php echo "Celle-ci a été écrite entièrement en PHP."; ?>
+
+    <?php
+
+   $tab = [
+        'coucou',
+        'test',
+        'coco',
+    ];
+
+    echo '<pre>';
+        print_r($tab);
+    echo '</pre>';
+
+
+   ?>
+
 </p>
 </body>
 </html>
