@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f40a81-e686-450f-869f-ef7ba2335239" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>error_reporting</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AfficherTexte.php" />
+        <option value="$PROJECT_DIR$/afficherDate.php" />
+        <option value="/Applications/MAMP/bin/php/php7.1.8/conf/php.ini" />
+        <option value="$PROJECT_DIR$/phpinfo.php" />
+        <option value="$PROJECT_DIR$/test_echo.php" />
+        <option value="$PROJECT_DIR$/calculsSimples.php" />
+        <option value="$PROJECT_DIR$/conditions.php" />
+        <option value="$PROJECT_DIR$/conditionSwitch.php" />
+        <option value="$PROJECT_DIR$/boucles/bouclesWhile.php" />
+        <option value="$PROJECT_DIR$/boucles/boucleWhile2.php" />
+        <option value="$PROJECT_DIR$/boucles/boucleFor.php" />
+        <option value="$PROJECT_DIR$/tableaux/tableauBasique.php" />
+        <option value="$PROJECT_DIR$/tableaux/tableauAssociatif.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauFor.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauForEach.php" />
+        <option value="$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php" />
+        <option value="$PROJECT_DIR$/tableaux/rechercheTableau.php" />
+        <option value="$PROJECT_DIR$/fonctions/fonctionDate.php" />
+        <option value="$PROJECT_DIR$/fonctions/fonctionDireBonjour.php" />
+        <option value="$PROJECT_DIR$/GET/bonjour.php" />
+        <option value="$PROJECT_DIR$/GET/bonjourIF.php" />
+        <option value="$PROJECT_DIR$/GET/BonjourRepeter.php" />
+        <option value="$PROJECT_DIR$/GET/bonjourTranstypage.php" />
+        <option value="$PROJECT_DIR$/GET/index.php" />
+        <option value="$PROJECT_DIR$/introPHP/AfficherTexte.php" />
+        <option value="$PROJECT_DIR$/POST/formulaire.php" />
+        <option value="$PROJECT_DIR$/POST/cible.php" />
+        <option value="$PROJECT_DIR$/variables supers globales/fonctionPrint_r.php" />
+        <option value="$PROJECT_DIR$/variables supers globales/exempleSession.php" />
+        <option value="$PROJECT_DIR$/variables supers globales/informations.php" />
+        <option value="$PROJECT_DIR$/variables supers globales/cookie.php" />
+        <option value="$PROJECT_DIR$/variables supers globales/afficherCookie.php" />
+        <option value="$PROJECT_DIR$/lireEcrireDansUnFichier/ouvrirEtFermerFichier.php" />
+        <option value="$PROJECT_DIR$/lireEcrireDansUnFichier/lireFichier.php" />
+        <option value="$PROJECT_DIR$/lireEcrireDansUnFichier/ecrireDansFichier.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="629" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cours" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/introPHP/conditions" />
+      <recent name="$PROJECT_DIR$/introPHP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f40a81-e686-450f-869f-ef7ba2335239" name="Default" comment="" />
+      <created>1516052889320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516052889320</updated>
+      <workItem from="1516052890837" duration="1399000" />
+      <workItem from="1516223240922" duration="1413000" />
+      <workItem from="1516308413482" duration="286000" />
+      <workItem from="1516437928295" duration="3145000" />
+      <workItem from="1516535908380" duration="227000" />
+      <workItem from="1516543345210" duration="1764000" />
+      <workItem from="1516575210965" duration="2294000" />
+      <workItem from="1516655241664" duration="1060000" />
+      <workItem from="1516825881342" duration="224000" />
+      <workItem from="1516954595134" duration="1619000" />
+      <workItem from="1516962025012" duration="104000" />
+      <workItem from="1516973644047" duration="670000" />
+      <workItem from="1517087797955" duration="604000" />
+      <workItem from="1517150379132" duration="5328000" />
+      <workItem from="1517257607752" duration="549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20686000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="629" y="-1080" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14536741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896066" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.14001986" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896066" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/test_echo.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/calculsSimples.php" />
+    <entry file="file://$PROJECT_DIR$/conditions/conditions.php" />
+    <entry file="file:///Applications/MAMP/bin/php/php7.1.8/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="19" lean-forward="false" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditions/conditionSwitch.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/AfficherTexte.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php" />
+    <entry file="file:///Applications/MAMP/bin/php/php7.1.8/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="19" lean-forward="false" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/AfficherTexte.php" />
+    <entry file="file:///Applications/MAMP/bin/php/php7.1.8/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="19" lean-forward="false" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/AfficherTexte.php" />
+    <entry file="file:///Applications/MAMP/bin/php/php7.1.8/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="19" lean-forward="false" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introPHP/afficherDate.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/phpinfo.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/test_echo.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/couchbase/couchbase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introPHP/calculsSimples.php" />
+    <entry file="file://$PROJECT_DIR$/conditions/conditions.php" />
+    <entry file="file://$PROJECT_DIR$/conditions/conditionSwitch.php" />
+    <entry file="file://$PROJECT_DIR$/boucles/bouclesWhile.php" />
+    <entry file="file://$PROJECT_DIR$/boucles/boucleWhile2.php" />
+    <entry file="file://$PROJECT_DIR$/boucles/boucleFor.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/tableauNumerote.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/tableauAssociatif.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauFor.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauForEach.php" />
+    <entry file="file://$PROJECT_DIR$/fonctions/fonctionDate.php" />
+    <entry file="file://$PROJECT_DIR$/fonctions/fonctionDireBonjour.php" />
+    <entry file="file://$PROJECT_DIR$/GET/index.php" />
+    <entry file="file://$PROJECT_DIR$/GET/bonjourIF.php" />
+    <entry file="file://$PROJECT_DIR$/GET/bonjour.php" />
+    <entry file="file://$PROJECT_DIR$/GET/bonjourTranstypage.php" />
+    <entry file="file://$PROJECT_DIR$/introPHP/AfficherTexte.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/rechercheTableau.php" />
+    <entry file="file://$PROJECT_DIR$/POST/cible.php" />
+    <entry file="file://$PROJECT_DIR$/tableaux/parcourirTableauPrint_r.php" />
+    <entry file="file://$PROJECT_DIR$/POST/formulaire.php" />
+    <entry file="file://$PROJECT_DIR$/GET/BonjourRepeter.php" />
+    <entry file="file://$PROJECT_DIR$/variables supers globales/informations.php" />
+    <entry file="file://$PROJECT_DIR$/variables supers globales/fonctionPrint_r.php" />
+    <entry file="file://$PROJECT_DIR$/variables supers globales/exempleSession.php" />
+    <entry file="file://$PROJECT_DIR$/variables supers globales/exempleCookie.php" />
+    <entry file="file://$PROJECT_DIR$/variables supers globales/afficherCookie.php" />
+    <entry file="file://$PROJECT_DIR$/lireEcrireDansUnFichier/ouvrirEtFermerFichier.php" />
+    <entry file="file://$PROJECT_DIR$/lireEcrireDansUnFichier/lireFichier.php" />
+    <entry file="file://$PROJECT_DIR$/lireEcrireDansUnFichier/ecrireDansFichier.php" />
+  </component>
+</project>
